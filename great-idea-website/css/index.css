@@ -76,7 +76,7 @@ li {
 
 header, main, footer {
 	width: 1000px;
-	padding: 20px 50px;
+	padding: 30px 50px;
 }
 
 nav, li, div {
@@ -84,11 +84,19 @@ nav, li, div {
 }
 
 h1 {
-	font-size: 400%;
+	font-size: 425%;
 }
 
 section {
 	width: 876px;
+}
+
+button {
+	font-size: 100%;
+	font-family: inherit;
+	background: transparent;
+	border: solid 1px black;
+	width: 150px;
 }
 
 .logo {
@@ -103,7 +111,6 @@ section {
 
 .wrapper {
 	width: 49%;
-	position: relative;
 }
 
 .one-third-wrapper {
@@ -113,6 +120,9 @@ section {
 .cta {
 	width: 250px;
 	text-align: center;
+	position: relative;
+	top: -35px;
+	left: 35px;
 }
 
 .circle-image {
@@ -122,6 +132,9 @@ section {
 #hero {
 	margin-top: 50px;
 	margin-bottom: 70px;
+	position: relative;
+	top: -35px;
+	left: 35px;
 }
 
 #copy {
