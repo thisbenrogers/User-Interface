@@ -1,5 +1,5 @@
 # User Interface Project: Great Idea Web Page
-## This Repo is for my clone of this project for class.
+## This Repo is my clone of this project for class.
 
 Being able to create a user interface from scratch based on a design file is considered a basic necessity for front end developers. We will be building a single page website using HTML and CSS.
 
